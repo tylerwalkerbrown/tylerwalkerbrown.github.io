@@ -11506,8 +11506,8 @@ pre .code {
   position: relative;
   height: 40vh;
   min-height: 600px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./Users/tylerbrown/Desktop/Project/dev/resources/images/istockphoto-913219882-170667a.jpeg);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/Users/tylerbrown/Desktop/Project/dev/resources/images/istockphoto-913219882-170667a.jpeg);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./Users/tylerbrown/Desktop/portfolio_website/istockphoto-913219882-170667a.jpeg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/Users/tylerbrown/Desktop/portfolio_website/istockphoto-913219882-170667a.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
